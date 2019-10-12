@@ -1,0 +1,8 @@
+{
+  "liveServer.settings.https": {
+    "enable": true,
+    "cert": "/Users/guyd/ssh/server.crt",
+    "key": "/Users/guyd/ssh/server.key",
+    "passphrase": "Wx5413798"
+  },
+}
